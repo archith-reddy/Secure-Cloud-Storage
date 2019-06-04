@@ -32,6 +32,4 @@ Step 3: Visit the localhost from your browser</br>
 
 Step 4: Enjoy :)
  
-**IF YOU ENCOUNTER ANY BUGS OR FOR ANY SUGGESTIONS REGARDING THE IMPROVEMENT OF THE PROJECT FEEL FREE TO CONTACT ME :**
-
-Shivang Srivastava	-	shivang.8@geu.ac.in<br/>
+<br/>
